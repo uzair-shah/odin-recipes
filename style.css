@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(208, 249, 146) ;
+    color: rgb(16, 30, 9);
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+ol {
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}
+.padding {
+    padding: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.left {
+    
+    text-align:center;
+    display: inline-block;
+}
